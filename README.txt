@@ -1,7 +1,7 @@
 ============ gitmd ============
- An ai-powered README/blog/writeup 
- generator for git projects 
- made with rust 
+An ai-powered README/blog/writeup 
+generator for git projects 
+made with rust 
 
 ============ setup ============
 Prerequisites:
