@@ -15,7 +15,7 @@ at https://ollama.com/download
 
 Since this program runs llama3.2 ai by default, run this command:
 ollama run llama3.2
-once finished installing the model, exit with ctrl-d§
+once finished installing the model, exit with ctrl-d
 NOTE that this model will be 2.0gb
 
 Installing
